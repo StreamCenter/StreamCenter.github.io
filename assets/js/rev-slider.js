@@ -15,7 +15,7 @@ var RevSlider = function() {
                     jsFileLocation: "includes/rev-slider/js/",
                     sliderLayout: "fullscreen",
                     dottedOverlay: "none",
-                    delay: 4000,
+                    delay: 9000,
                     navigation: {
                         keyboardNavigation: "on",
                         keyboard_direction: "horizontal",
@@ -96,7 +96,7 @@ var RevSlider = function() {
                     startheight:650,
                     fullWidth:"on",
                     dottedOverlay: "none",
-                    delay: 4000,
+                    delay: 9000,
                     navigation: {
                         keyboardNavigation: "on",
                         keyboard_direction: "horizontal",
